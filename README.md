@@ -35,9 +35,9 @@ The project addresses the challenge of fine-tuning large language models for mac
 | Layer Freezing    | Medium (~4.5GB) | Balanced      | Moderate      |
 
 ## Repository Structure
-- `data/`: Dataset files (UM-Corpus subset for Science and Education domains).
-- `scripts/`: Code for fine-tuning, LoRA implementation, and evaluation.
-- `docs/`: Documentation and presentation slides.
+- `Translations for Education Domain.ipynb/`:  Code for fine-tuning, LoRA implementation, and evaluation.
+- `Translations for Science Domain.ipynb/`: Code for fine-tuning, LoRA implementation, and evaluation.
+-  Documentation and presentation slides.
 
 ##  Setup and Usage
 
