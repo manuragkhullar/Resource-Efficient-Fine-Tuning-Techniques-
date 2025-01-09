@@ -1,8 +1,8 @@
-# **CIS5300 Final Project: From BART to Edge**  
+  
 
 ---
 
-## **Description**  
+## **Project Description**  
 
 This project focuses on fine-tuning large language models (LLMs) for **Chinese-to-English translation** in the **education domain**. We compare two state-of-the-art models—**mBART** and **M2M100**—using various fine-tuning techniques such as **LoRA** and **Layer Freezing**. The goal is to identify the most effective and resource-efficient approach for achieving high-quality translations tailored to this domain.
 
